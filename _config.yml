@@ -21,7 +21,7 @@
 title: A Great Web Agency
 email: learna2z@gmail.com
 description: "Great Web Agency provides most affordable web development services"
-baseurl: "http://dc3a06fb751c.mylabserver.com:3000" # the subpath of your site, e.g. /blog
+baseurl: ""
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
