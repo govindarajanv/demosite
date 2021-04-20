@@ -32,8 +32,9 @@ title: Great Web Agency creative
                 <hr>
                 
                    <!-- Preview Image -->
-                   <img class="img-responsive" src="http://placehold.it/900x300" alt="Time is an illusion. Lunchtime doubly so.">
-                
+                   {% if page.image %}
+                   <img class="img-responsive" src="{{ page.image }}" alt="{{ page.image }}">
+                    {}
                 
 
                 <hr>
