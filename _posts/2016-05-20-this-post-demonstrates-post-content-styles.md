@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "This post demonstrates post content styles"
-author: "Bart Simpson"
 meta: "Springfield"
 ---
 
