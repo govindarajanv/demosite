@@ -29,3 +29,7 @@ Steps:
 posts should be under _post
 naming convention Y-M-D-title.markup
 
+https://fontawesome.com/icons?d=gallery&p=2&m=free
+
+https://formspree.io/forms/mpzkwkvz/integration
+
