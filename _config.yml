@@ -29,6 +29,7 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 permalink: none
+comments: true 
 
 defaults:
   -
